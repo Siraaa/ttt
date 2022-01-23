@@ -1,1 +1,1 @@
-# A half functioning twerminal tic-tac-toe game made in python
+# A half functioning tic-tac-toe game made in python
